@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usucavec.github.io/sitemap.html.gz
+Sitemap: https://usucavec.github.io/app/sitemap.html.gz
+Sitemap: https://usucavec.github.io/assets/sitemap.html.gz
+Sitemap: https://usucavec.github.io/css/sitemap.html.gz
+Sitemap: https://usucavec.github.io/includes/sitemap.html.gz
+Sitemap: https://usucavec.github.io/item/sitemap.html.gz
+Sitemap: https://usucavec.github.io/src/sitemap.html.gz
